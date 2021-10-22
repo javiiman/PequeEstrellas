@@ -1,0 +1,27 @@
+tutoria
+voy asignar:
+-fecha
+-profesor
+- alumno
+*test pesonalidad
+historial "medico"
+- Se trabajo el método .... para trabajar
+- Progreso ¿cómo el alumno a ido mejorando?
+- Progreso pueder a examenes en punteo, 
+n examen con punteo
+---------------------------------------------
+Asignación - 
+
+tutoría
+atención - 1
+práctica - 5
+enfoque  -  
+dudas    -   
+asa      - 
+
+Observación:
+
+
+tutoria 2
+
+Edgarin (tacaño) y ANdrea <1+2
